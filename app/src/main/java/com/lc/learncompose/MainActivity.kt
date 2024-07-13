@@ -41,7 +41,7 @@ class MainActivity : ComponentActivity() {
                         .fillMaxWidth()
                         .fillMaxHeight(1f/555)
                         .padding(12.dp)
-                        .background(color = Color(0xFFFFFA500))
+                        .background(color = Color(0xFFFFA500))
 
                 ) {
 
