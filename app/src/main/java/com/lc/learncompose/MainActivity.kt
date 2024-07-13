@@ -39,7 +39,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier
                         .fillMaxWidth()
                         .fillMaxHeight(1f/555)
-                        .background(color = Color(0xFFFFA500))
+                        .background(color = Color(0xFFFFFA500))
 
                 ) {
 
