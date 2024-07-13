@@ -39,9 +39,9 @@ class MainActivity : ComponentActivity() {
                 Box(
                     modifier = Modifier
                         .fillMaxWidth()
-                        .fillMaxHeight(1f/555)
+                        .fillMaxHeight(1f/5)
                         .padding(12.dp)
-                        .background(color = Color(0xFFFFFA500))
+                        .background(color = Color(0xFFFFA500))
 
                 ) {
 
